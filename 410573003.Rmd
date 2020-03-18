@@ -26,3 +26,17 @@ plot(pressure)
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+library(googlesheets
+a->2
+b->3
+```{r}
+a=465654654
+b=123132121
+
+```
+
+myAge
+```{r}
+myAge=10
+
+```
